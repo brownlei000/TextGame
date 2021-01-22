@@ -1,2 +1,2 @@
 # TextGame
-Choose your Adventure game
+Choose your opponent and battle
